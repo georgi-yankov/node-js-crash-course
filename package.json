@@ -1,0 +1,13 @@
+{
+  "name": "nove-js-crash-course",
+  "version": "1.0.0",
+  "description": "Crash Course for Beginners Tutorial - https://youtu.be/2LUdnb-mls0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "GSY",
+  "license": "ISC"
+}
